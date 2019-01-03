@@ -1,4 +1,4 @@
-<%@ page import="com.tiny.module.User" %>
+<%@ page import="com.wbqm.module.User" %>
 <%@page pageEncoding="utf-8" contentType="text/html;charset=utf-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>

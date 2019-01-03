@@ -1,4 +1,4 @@
-<%@ page import="com.tiny.module.User" %>
+<%@ page import="com.wbqm.module.User" %>
 <%@page contentType="text/html;charset=utf-8"%>
 <link href="${pageContext.request.contextPath}/css/book_head090107.css" rel="stylesheet" type="text/css" />
 <div class="head_container">
